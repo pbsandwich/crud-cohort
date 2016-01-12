@@ -4,7 +4,7 @@
 }
 
 h1 {
-    padding: 15px;
+    padding-bottom: 15px;
     width: 600px;
 }
 
@@ -68,9 +68,8 @@ th {
 }
 
 a.button {
-    position:block;
-	margin-right: 25px;    
-/*	float:left;*/
+	margin: 5px;    
+	float:left;
 	background-color:#0033CC; /* blue */
 	padding:15px 20px;
 	color:#FFFFFF;
