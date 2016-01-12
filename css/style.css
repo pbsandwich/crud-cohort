@@ -1,7 +1,15 @@
-#container {
-    position: absolute;
-    margin: 0px auto;
+.mainWidth {
+    overflow:hidden;
+    position:relative;
+    margin:0px auto;
+    width:1200px;
 }
+
+h1 {
+    padding: 40px;
+    text-align: left;
+}
+
 .crud {
     position: absolute;
     margin: 30px 0px 0px 300px;
@@ -15,6 +23,10 @@ h2 {
 	border-style: outset;
 }
 
+body {
+    margin-left: 50px;
+    width:800;
+}
 .col1 {
     text-align: left;
     width: 50px;
